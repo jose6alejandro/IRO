@@ -1,9 +1,9 @@
-# A hello Flet app
+# Prueba hola mundo
 
-An example of a minimal Flet app.
+Es una pequeña prueba de la comunicación serial flet-arduino, consiste en encender y apagar el led integrado de arduino  el presionar el boton desde la aplicación. 
 
-To run the app:
+Ejecutar prueba en el navegador:
 
 ```
-flet run [app_directory]
+flet run --web
 ```
