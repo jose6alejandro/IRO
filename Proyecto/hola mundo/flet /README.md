@@ -1,9 +1,9 @@
-# A hello Flet app
+# Hola mundo
 
-An example of a minimal Flet app.
+Es un ejemplo de flet para verificar su funcionamiento
 
-To run the app:
+Ejecutar en el navegador:
 
 ```
-flet run [app_directory]
+flet run --web
 ```
