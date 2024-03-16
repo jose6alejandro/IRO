@@ -1,2 +1,3 @@
-flet==0.19.0
+pyserial
 pyttsx3==2.90
+flet
